@@ -1,0 +1,28 @@
+#container{
+	margin: auto;
+	max-width: 300px;
+}
+img{
+ width: 100%;
+}
+.col-xs-4{
+	padding:0!important;
+}
+
+body{
+	background-color: black!important;
+}
+
+#reset{
+	font-size: 24px;
+	margin: 30px auto;
+	text-align:center;
+}
+
+button{
+	/* color: white!important; */
+	/* background-color: blue; */
+	border-style: none;
+	border-radius: 5px;
+	padding: 10px;
+}
